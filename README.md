@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @quantumfate
-- 👀 I’m interested in software engineering, DevOps and [IaC](https://www.redhat.com/en/topics/automation/what-is-infrastructure-as-code-iac)
-- 🌱 I’m currently learning java, lua and [ansible](https://www.ansible.com/)
-- 💞️ I’m looking to collaborate on projects that follow the [IaC](https://www.redhat.com/en/topics/automation/what-is-infrastructure-as-code-iac) philosophy
-- 📫 You can reach me on [Linked in](https://www.linkedin.com/in/leon-connor-holm-02b471213/)
+Hi, I’m @quantumfate
+- my motivation is only based on interest, novelty, competition and passion
+- motivation based on success and prestige is worthless to me
+- I like whatever my autistic ADHD brain focuses 
 <!---
 quantumfate/quantumfate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
