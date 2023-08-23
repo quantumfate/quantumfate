@@ -1,6 +1,7 @@
 Hi, I’m @quantumfate
 - when it exists, I try to do it in neovim
 - it's not always a waste to reinvent the wheel
+- I read social-political books
 
 Interests:
 - Embedded systems
