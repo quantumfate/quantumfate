@@ -5,6 +5,7 @@ Hi, I’m @quantumfate
 
 Interests:
 - Embedded systems
+- Overcoming Outside impurities
 - Networking
 - Hardware
 - System automation
@@ -14,6 +15,7 @@ Langauges/Tools:
 - python
 - graphql
 - c/c++
+- ansible
 
 <!---
 quantumfate/quantumfate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
