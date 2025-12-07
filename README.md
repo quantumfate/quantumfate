@@ -1,21 +1,7 @@
 Hi, I’m @quantumfate
 - when it exists, I try to do it in neovim
 - it's not always a waste to reinvent the wheel
-- I read social-political books
-
-Interests:
-- Embedded systems
-- Overcoming Outside impurities
-- Networking
-- Hardware
-- System automation
-
-Langauges/Tools:
-- lua
-- python
-- graphql
-- c/c++
-- ansible
+- switching from QWERTY to DVORAK made my life far more difficult
 
 <!---
 quantumfate/quantumfate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
