@@ -2,7 +2,7 @@ Hi, I’m @quantumfate
 - when it exists, I try to do it in neovim
 - it's not always a waste to reinvent the wheel
 - switching from QWERTY to DVORAK made my life far more difficult
-- enthusiastic about nix
+- I was enthusiastic about nix until it made my life more difficult as well
 
 <!---
 quantumfate/quantumfate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
