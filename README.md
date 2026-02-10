@@ -31,7 +31,7 @@ Prefer roles that align with [FLOSS](https://www.gnu.org/philosophy/floss-and-fo
 
 📧 Reach out via [email](mailto:l.c.holm@proton.me)!
 
-![Top Languages](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quantumfate&hide=javascript,css,scss,html&theme=tokyonight))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quantumfate&layout=compact&hide=javascript,css,scss,html&theme=tokyonight)
 
 <!---
 quantumfate/quantumfate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
