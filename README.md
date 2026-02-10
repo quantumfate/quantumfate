@@ -31,9 +31,13 @@ Prefer roles that align with [FLOSS](https://www.gnu.org/philosophy/floss-and-fo
 
 📧 Reach out via [email](mailto:l.c.holm@proton.me)!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quantumfate&layout=compact&hide=javascript,css,scss,html&theme=tokyonight)
-
 <!---
 quantumfate/quantumfate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img src="https://github-readme-stats.vercel.app/api?username=quantumfate&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="quantumfate's GitHub Stats" />
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
