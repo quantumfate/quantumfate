@@ -13,7 +13,7 @@ I put great effort in a fast, efficient and safe workflow as I care about an opt
 - Digital independence: owning your data, your stack, and your workflow.
 - Dedicated to fight global surveillance
 
-[uBlock Origin](https://github.com/gorhill/uBlock) + [subscribing to filterlists](https://github.com/yokoffing/filterlists) + [ClearURLs](https://github.com/ClearURLs/Addon) + [BetterFox](https://github.com/yokoffing/BetterFox) is my bread and butter.
+[Subscribing to filterlists](https://github.com/yokoffing/filterlists) in [uBlock Origin](https://github.com/gorhill/uBlock) together with [ClearURLs](https://github.com/ClearURLs/Addon) and using [BetterFox](https://github.com/yokoffing/BetterFox) keeps me secure.
 
 ### Let’s connect
 
