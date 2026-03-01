@@ -35,7 +35,6 @@ Prefer roles that align with [FLOSS](https://www.gnu.org/philosophy/floss-and-fo
 
 ![langs](./profile/top-langs.svg)
 
-<!---
-quantumfate/quantumfate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/1739f3d1-5dd0-421e-a109-3b193d2363b5/thumbnail" >
+</p>
