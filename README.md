@@ -1,37 +1,54 @@
 ## Hi there 👋
 
-I'm someone who cares deeply about **privacy**, security, and open‑source - my moral compass points firmly towards it.
-I try to push digital independence forward by choosing tools and workflows that respect users, not exploit them.
+Passionate about programming and Linux with a strong emphasis on
+[FLOSS](https://www.gnu.org/philosophy/floss-and-foss.en.html) principles.
+
+During my first year of studying computer science in 2020, I discovered Linux
+and haven't looked back. Today I run [Hyprland](https://github.com/hyprwm/Hyprland)
+and treat my development environment as a first-class project.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Python · Go · Lua · Bash  
+**Tools:** Neovim · Git · Docker · systemd  
+**OS:** Arch Linux
+
+---
+
+### 📦 Projects
+
+| Project                                             | Description                                        | Stack                   |
+| --------------------------------------------------- | -------------------------------------------------- | ----------------------- |
+| [dotfiles](https://github.com/quantumfate/dotfiles) | Full dev environment bootstrapped with one command | Shell, Chezmoi, Go tmpl |
+| [nvim](https://github.com/quantumfate/nvim)         | Minimal, fast Neovim config                        | Lua                     |
+| [hypr](https://github.com/quantumfate/hypr)         | Hyprland window manager config                     | Hyprland config         |
+| [scripts](https://github.com/quantumfate/scripts)   | Various shell scripts used in my environment       | Shell, Linux, CLI Tools |
+
+---
+
+### 🔄 Open to Work
+
+Actively seeking opportunities in **backend development** and **open source**.  
+I prefer roles that align with FLOSS principles, remote-first teams, and meaningful
+impact on user sovereignty.
+
+📬 Reach me at: [email](mailto:l.c.holm@proton.me) · [LinkedIn](www.linkedin.com/in/leonconnorholm)
+
+---
 
 ### What I care about
 
-I put great effort in a fast, efficient and safe workflow as I care about an optimal user experiencce:
+Fast, efficient, and private workflows:
 
-- Privacy-first software and infrastructure.
-- Security as a default, not an afterthought.
-- Open-source projects that empower users and communities.
-- Digital independence: owning your data, your stack, and your workflow.
-- Dedicated to fight global surveillance
-
-[Subscribing to filterlists](https://github.com/yokoffing/filterlists) in [uBlock Origin](https://github.com/gorhill/uBlock) together with [ClearURLs](https://github.com/ClearURLs/Addon) and using [BetterFox](https://github.com/yokoffing/BetterFox) keeps me secure.
-
-### Let’s connect
-
-If you’re interested in privacy, security, Linux, or replacing proprietary tools with open ones, feel free to get in touch with me.  
-I’m always happy to exchange ideas and learn from others on the same path toward digital independence.
-
-## 🔄 Open to Work
-
-**Actively seeking opportunities in:**
-
-- Privacy & Security Engineering
-- Open Source Development
-- Linux Systems / DevOps
-- Self-hosting & Digital Independence projects
-
-Prefer roles that align with [FLOSS](https://www.gnu.org/philosophy/floss-and-foss.en.html) principles, remote-first teams, and meaningful impact on user sovereignty.
-
-📧 Reach out via [email](mailto:l.c.holm@proton.me)!
+- [Dotfiles](https://github.com/quantumfate/dotfiles) — one-command environment bootstrap
+- [Custom DVORAK layout](https://github.com/quantumfate/dotfiles?tab=readme-ov-file#custom-dvorak-layout)
+- [Neovim config](https://github.com/quantumfate/nvim)
+- Privacy stack: [uBlock Origin](https://github.com/gorhill/uBlock) ·
+  [ClearURLs](https://github.com/ClearURLs/Addon) ·
+  [BetterFox](https://github.com/yokoffing/BetterFox) ·
+  [filterlists](https://github.com/yokoffing/filterlists)
 
 ![langs](./profile/top-langs.svg)
 
