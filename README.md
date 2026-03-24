@@ -19,12 +19,13 @@ and treat my development environment as a first-class project.
 
 ### 📦 Projects
 
-| Project                                             | Description                                        | Stack                   |
-| --------------------------------------------------- | -------------------------------------------------- | ----------------------- |
-| [dotfiles](https://github.com/quantumfate/dotfiles) | Full dev environment bootstrapped with one command | Shell, Chezmoi, Go tmpl |
-| [nvim](https://github.com/quantumfate/nvim)         | Minimal, fast Neovim config                        | Lua                     |
-| [hypr](https://github.com/quantumfate/hypr)         | Hyprland window manager config                     | Hyprland config         |
-| [scripts](https://github.com/quantumfate/scripts)   | Various shell scripts used in my environment       | Shell, Linux, CLI Tools |
+| Project                                                         | Description                                        | Stack                   |
+| --------------------------------------------------------------- | -------------------------------------------------- | ----------------------- |
+| [dotfiles](https://github.com/quantumfate/dotfiles)             | Full dev environment bootstrapped with one command | Shell, Chezmoi, Go tmpl |
+| [nvim](https://github.com/quantumfate/nvim)                     | Minimal, fast Neovim config                        | Lua                     |
+| [hypr](https://github.com/quantumfate/hypr)                     | Hyprland window manager config                     | Hyprland config         |
+| [scripts](https://github.com/quantumfate/scripts)               | Various shell scripts used in my environment       | Shell, Linux, CLI Tools |
+| [firefox-harden](https://github.com/quantumfate/firefox-harden) | xdg-open based container routing                   | Shell, Linux, XDG       |
 
 ---
 
@@ -43,7 +44,7 @@ impact on user sovereignty.
 Fast, efficient, and private workflows:
 
 - [Dotfiles](https://github.com/quantumfate/dotfiles) — one-command environment bootstrap
-- [Custom DVORAK layout](https://github.com/quantumfate/dotfiles?tab=readme-ov-file#custom-dvorak-layout)
+- [Custom DVORAK layout](https://github.com/quantumfate/dotfiles#base-layer)
 - [Neovim config](https://github.com/quantumfate/nvim)
 - Privacy stack: [uBlock Origin](https://github.com/gorhill/uBlock) ·
   [ClearURLs](https://github.com/ClearURLs/Addon) ·
