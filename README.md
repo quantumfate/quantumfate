@@ -35,7 +35,7 @@ Actively seeking opportunities in **backend development** and **open source**.
 I prefer roles that align with FLOSS principles, remote-first teams, and meaningful
 impact on user sovereignty.
 
-📬 Reach me at: [email](mailto:l.c.holm@proton.me) · [LinkedIn](www.linkedin.com/in/leonconnorholm)
+📬 Reach me at: [email](mailto:leon@quantumfate.dev) · [LinkedIn](www.linkedin.com/in/leonconnorholm)
 
 ---
 
